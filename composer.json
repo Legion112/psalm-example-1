@@ -1,0 +1,12 @@
+{
+    "name": "max/ws",
+    "authors": [
+        {
+            "name": "Legion112",
+            "email": "ageev.maks2014@gmail.com"
+        }
+    ],
+    "require": {
+        "vimeo/psalm": "^4.7"
+    }
+}
