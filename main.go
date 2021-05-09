@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.thisFunctionNameIsNotExist("Hello, playground")
+	fmt.Println("Hello world")
 }

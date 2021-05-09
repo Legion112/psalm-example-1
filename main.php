@@ -1,4 +1,4 @@
 <?php
-if (false) {
+if (true) {
 	print("Hello there\n");
 }

@@ -1,0 +1,12 @@
+services:
+  php:
+    image: fearofcode/php-8-cli
+    working_dir: /var/www
+    volumes:
+      - .:/var/www
+  go:
+    image: golang:1.16
+    working_dir: /var/www
+    volumes:
+      - .:/var/www
+
